@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A Front-end Developer from Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp”>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
 
-- 🔭 I’m currently working on **my own projects**
+🔭 I’m currently working on my own projects and looking for a new job
 
-- 🌱 I’m currently learning **React.Js, TypeScript, Next.Js**
+🌱 I’m currently learning React.Js, TypeScript, Next.Js
 
-- 🤝 I’m looking for help with **finding a new job and learning more about full-stack web development**
+🤝 I’m looking for help with learning more about full-stack web development
 
-- 👨‍💻 All of my projects are available at [(soon)]((soon))
+💬 Ask me about JavaScript, React.Js, HTML5 and CSS3
 
-- 💬 Ask me about **React.Js, HTML5, CSS3 and JavaScript (Vanilla)**
+📫 You can reach me on gustavocgf@gmail.com or my LinkedIn account below
 
-- 📫 How to reach me **gustavocgf@gmail.com**
-
-- 📄 Know about my experiences [(soon)]((soon))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
