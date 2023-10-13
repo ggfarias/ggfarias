@@ -2,15 +2,17 @@
 <h3 align="center">A Front-end Developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
 
-🔭 I’m currently working on my own projects and looking for a new job
+🔭 I’m currently studying and working on my own projects to get my first job as a Software Developer
 
-🌱 I’m currently learning React.Js, TypeScript, Next.Js
+🌱 I’m learning React.Js, TypeScript and Next.Js
 
-🤝 I’m looking for help with learning more about full-stack web development
+🤝 I could use some help with learning more about backend web development
+
+👨‍💻 Check my projects and more info's about me in my portfolio page [(https://portfolio-main-xi-ten.vercel.app/)]
 
 💬 Ask me about JavaScript, React.Js, HTML5 and CSS3
 
-📫 You can reach me on gustavocgf@gmail.com or my LinkedIn account below
+📫 You can message me in my LinkedIn (link below) or at my email gustavocgf@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
