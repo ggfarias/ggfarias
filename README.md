@@ -8,7 +8,7 @@
 
 🤝 I could use some help with learning more about backend web development
 
-👨‍💻 Check my projects and more info's about me in my portfolio page [(https://portfolio-main-xi-ten.vercel.app/)]
+👨‍💻 Check my projects and more info's about me in my portfolio page [(https://portfolio-new-bice-eta.vercel.app/)]
 
 💬 Ask me about JavaScript, React.Js, HTML5 and CSS3
 
