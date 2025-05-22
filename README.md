@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A Front-end Developer from Brazil.</h3>
+<h3 align="center"> A Solutions Engineer from Brazil but working globally</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
-
-🔭 I’m currently studying and working on my own projects to get my first job as a Software Developer
-
-🌱 I’m learning React.Js, TypeScript and Next.Js
-
-🤝 I could use some help with learning more about backend web development
-
-👨‍💻 Check my projects and more info's about me in my portfolio page [(https://portfolio-new-bice-eta.vercel.app/)]
 
 💬 Ask me about JavaScript, React.Js, HTML5 and CSS3
 
